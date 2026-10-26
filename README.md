@@ -4,4 +4,4 @@
 ## Prerequisites
 
 ## Screenshots
-![Screenshot](assets\FormDesignPreview.png)
+![Screenshot](assets/FormDesignPreview.png)
