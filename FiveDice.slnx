@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="assets/FormDesignPreview.png" />
+    <File Path="README.md" />
+  </Folder>
   <Project Path="FiveDice/FiveDice.csproj" />
 </Solution>
